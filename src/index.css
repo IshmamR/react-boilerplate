@@ -1,0 +1,15 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	max-width: 100%;
+}
+body {
+	background-color: #212121;
+}
+h1 {
+	margin: 0;
+}
+.App {
+	text-align: center;
+	color: #fafafa;
+}
